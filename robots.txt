@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://spxexpressbantaeng.com/sitemap.xml
+
+# Blokir folder yang tidak perlu diindeks
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /private/
+
